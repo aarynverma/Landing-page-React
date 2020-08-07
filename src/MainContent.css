@@ -1,0 +1,26 @@
+.maincontent {
+    text-align: center;
+    }     
+
+.button1 {
+    background-color: transparent;
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 0.4em 2em;
+    border: whitesmoke 0.2em solid;
+    border-radius: 30px;
+    
+}
+
+.centercontent {
+    margin-top: 75px;
+    font-size: 50px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 17px;
+    color: whitesmoke;
+    padding: 1em 18em;
+}

@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+    margin: 0em 4em;
+    align-items: baseline;
+    font-size: 20px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navelements {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.element {
+    margin-right: 1em;
+}
+
+#button {
+    background-color: gray;
+    padding: 0.4em 1em;
+}
+

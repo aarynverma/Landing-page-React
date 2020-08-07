@@ -1,0 +1,15 @@
+
+
+.nav {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding: 2em;
+}
+
+.nav_element {
+    
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 500;
+}

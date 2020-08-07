@@ -1,0 +1,35 @@
+* {
+    color: whitesmoke;
+}
+
+.foot {
+    
+    padding: 1em;
+    background-color: whitesmoke; 
+    margin-top: 3em;
+    display: flex;
+    justify-content: space-around;
+}
+.detail1{
+    margin-bottom: 1em;
+    color: black;
+    font-weight: bold;
+    background-color: whitesmoke;
+}
+.final {
+    margin-top: .3em;
+    font-size: 15px;
+    font-weight: lighter;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.det {
+    font-weight: 600;
+    background-color: whitesmoke;
+    color: black;
+    border: black .2em solid;
+    padding: .5em 1em;
+    border-radius: 2em ;
+    
+}

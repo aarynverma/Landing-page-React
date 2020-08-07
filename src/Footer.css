@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.footer_element {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.search {
+    
+    border: whitesmoke 0.1em solid;
+    height: 50px;
+}
+
+.button2 {
+    padding: .2em 1.5em;
+    border: whitesmoke 0.1em solid;
+    margin-left: -10em;
+}
