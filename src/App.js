@@ -6,7 +6,6 @@ import "./App.css"
 import Nav from './Nav'
 import Footer from './Footer'
 import Footerb from './Footerb';
-// import background from './background.svg' ;
 
 function App() {
   return (
@@ -17,9 +16,6 @@ function App() {
       <Footer />
       <Footerb />
     </div>
-    
-    
-   
   );
 }
 
