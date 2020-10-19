@@ -5,11 +5,12 @@ function Footer() {
     return(
         <div className="footer_element">
             <div>
-                <input type="text" placeholder="Enter Your Email" className="search"></input>
+                <input type="text" placeholder="Enter Your Email-id" className="search"></input>
             </div>
             <button className="button2">
-                Subscribe Now
+                Subscribe Here
             </button>
+        <h1> Done! <h1/>
         </div>
     )
 }
